@@ -1,0 +1,1 @@
+# HumanAndComputer_lab10
