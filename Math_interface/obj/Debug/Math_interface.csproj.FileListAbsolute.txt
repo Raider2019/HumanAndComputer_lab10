@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.exe.config
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.exe
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.pdb
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.Form1.resources
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.Properties.Resources.resources
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.exe
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.pdb
